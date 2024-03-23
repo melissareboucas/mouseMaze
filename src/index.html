@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <title><%= htmlWebpackPlugin.options.title %></title>
-  </head>
-  <body></body>
+
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>
+    <%= htmlWebpackPlugin.options.title %>
+  </title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden; /* Prevent scrolling */
+    }
+  </style>
+  
+</head>
+
+<body></body>
+
 </html>
