@@ -6,7 +6,8 @@ A motivação desse projeto é aplicar o algoritimo de IA "Busca em Retrocesso" 
 
 ## Objetivo
 
-O objetivo do jogo é mostrar o rato tentando as possibilidades de caminho possíveis para encontrar o queijo. Cada tentativa é o algoritimo rodando.
+O objetivo do jogo é mostrar o rato tentando as possibilidades de caminho possíveis para encontrar o queijo. 
+Cada tentativa é o algoritimo rodando.
 
 ## Instalação
 
