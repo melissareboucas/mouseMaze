@@ -1,7 +1,7 @@
 {
-  "name": "phaser-webpack",
+  "name": "mouseMaze",
   "version": "4.0.0",
-  "description": "Phaser Webpack",
+  "description": "mouseMaze",
   "main": "src/js/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebsowter/phaser-webpack.git"
+    "url": "git+https://github.com/melissareboucas/moueMaze.git"
   },
-  "author": "Seb Sowter",
+  "author": "Melissa Viana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sebsowter/phaser-webpack/issues"
+    "url": "https://github.com/melissareboucas/moueMaze/issues"
   },
   "babel": {
     "presets": [
       "@babel/preset-env"
     ]
   },
-  "homepage": "https://github.com/sebsowter/phaser-webpack#readme",
+  "homepage": "https://github.com/melissareboucas/moueMaze#readme",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
